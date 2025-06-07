@@ -1,10 +1,29 @@
+# Bytecode files
 __pycache__/
 *.py[cod]
+
+# Editor backups and swap files
 *.swp
 *.bak
 *.tmp
 *.log
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Excel temporary and autosave files
 ~$*.xlsx
-.env
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# IDE/editor settings
 .vscode/
 .idea/
+
+# Mac/Linux hidden files
+.*~
