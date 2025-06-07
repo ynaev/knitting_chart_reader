@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.swp
+*.bak
+*.tmp
+*.log
+~$*.xlsx
+.env
+.vscode/
+.idea/
